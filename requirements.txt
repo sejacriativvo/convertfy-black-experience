@@ -1,0 +1,10 @@
+numpy==2.5.3
+scipy==1.18.1
+soundfile==0.14.0
+pillow==12.3.0
+opencv-python-headless==4.14.0.94
+mlx-whisper==0.4.3
+mlx==0.32.2
+# só pra fala nova: a respiração dos clipes que já estão no filme está em dados/vad
+torch==2.14.0
+silero-vad==6.2.3

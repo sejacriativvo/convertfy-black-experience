@@ -1,0 +1,15 @@
+# vídeo mora no Drive (midia.json): bin/baixar.py traz, bin/exportar.py leva
+bruto/
+render/
+*.mp4
+*.MP4
+*.mov
+*.MOV
+
+# regenerável pelo motor
+cache/
+.exportar/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
