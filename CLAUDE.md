@@ -41,7 +41,15 @@ ESC=2 caffeinate -i .venv/bin/python yt.py         # filme inteiro em 4K, a entr
 .venv/bin/python palavras.py 1389 140 160          # palavras com o tempo, pra achar o ponto do corte
 ```
 
-O primeiro render numa máquina nova refaz o cache inteiro (horas). Depois só o que mudou renderiza de novo.
+O primeiro render numa máquina nova refaz o cache inteiro (horas; o 4K leva mais e ocupa uns 45 GB de cache). Depois só o que mudou renderiza de novo. Mostrar o resultado pra quem pediu com `open render/<arquivo>.mp4` (ou `open cache/teste.mp4` no teste de trecho).
+
+## Skills do projeto (`.claude/skills/`)
+
+- `trilha-cinematografica`: a abertura de cinema (a voz do cantor com reverb e os efeitos no tom até o drop). O que ela fez já está no `som_cinema.py` e no `TRILHAS`; a skill só entra pra refazer a abertura com outra música.
+- `gpt-image2-ratos`: imagem nova a partir de quadro real do vídeo (a foto de autoridade do Bruno no QR). Precisa de plano pago do ChatGPT e login no Codex; avisar antes de gerar.
+- `emil-design-eng` e `apple-design`: todo letreiro novo ou mexido passa pelas duas (hierarquia, espaço, tipografia, movimento), dentro das cores e fontes da Convertfy.
+
+Pra garimpar take novo: `palavras.py` acha a fala pelo texto, `folha.py NNNN` mostra 6 quadros do clipe com a cor certa, `triagem.py` põe dezenas de clipes numa folha, `melhor.py` e `dados/analise/` dizem o trecho mais nítido e sem tremida.
 
 ## Conferência, sempre, antes de dizer que está pronto
 
@@ -103,6 +111,6 @@ No fim de cada resposta do Claude, o hook `Stop` (`.claude/settings.json` → `b
 - vídeo novo em `render/` sobe pro `render/` do Drive, no mesmo arquivo (o link não muda);
 - `midia.json` é refeito e tudo que mudou vira commit, com `pull --rebase` e `push` pro GitHub.
 
-Se falhar (conflito com o que o outro lado subiu, Drive sem acesso), aparece um aviso no próximo fim de resposta e o detalhe fica em `.exportar/log.txt`. Conflito se resolve juntando as duas versões, nunca descartando a do outro. Pra exportar na hora: `python3 bin/exportar.py`.
+Quem clonou o repositório público sem ser colaborador não tem escrita no GitHub nem no Drive: o commit fica no git do Mac, o render fica em `render/`, e um aviso aparece uma vez (a exportação tenta de novo uma vez por dia). Se falhar de verdade (conflito com o que o outro lado subiu, Drive fora), aparece um aviso no próximo fim de resposta e o detalhe fica em `.exportar/log.txt`. Conflito se resolve juntando as duas versões, nunca descartando a do outro. Pra exportar na hora: `python3 bin/exportar.py`.
 
 Versão nova substitui a velha: mesmo arquivo, mesmo nome. Nada de `-v2`; o histórico é o git.

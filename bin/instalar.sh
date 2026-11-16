@@ -1,5 +1,5 @@
 #!/bin/sh
-# Prepara um Mac (Apple Silicon) pra editar o filme: programas, Python, acesso ao Drive e o bruto.
+# Prepara um Mac (Apple Silicon) pra editar o filme: programas, Python, acesso ao Drive, o bruto e o filme pronto.
 # Rodar uma vez, de dentro da pasta do repositório: sh bin/instalar.sh
 set -e
 R="$(cd "$(dirname "$0")/.." && pwd)"
@@ -23,10 +23,15 @@ for f in Gilroy-Bold.ttf Gilroy-ExtraBold.ttf Gilroy-SemiBold.ttf; do
   [ -f "$HOME/Library/Fonts/$f" ] || [ -f tipografia/$f ] || echo "AVISO: falta a fonte $f (números na tela). Instale a Gilroy no Mac."
 done
 
-# Drive: login da sua conta Google uma vez (abre o navegador). A pasta do projeto precisa estar compartilhada com ela.
+# Drive: login de uma conta Google qualquer, uma vez (abre o navegador). A pasta do projeto abre por link.
 if [ ! -x "$HOME/.config/convertfy-black-experience/rclone-env" ] && ! rclone listremotes | grep -qx "convertfy:"; then
   rclone config create convertfy drive scope=drive
 fi
 
-python3 bin/baixar.py
+# todo o bruto (pra trocar ou acrescentar take) e o filme pronto: ~230 GB, pode parar e rodar de novo
+livre=$(df -g "$R" | awk 'NR==2 {print $4}')
+[ "$livre" -ge 400 ] || echo "AVISO: só $livre GB livres. O bruto tem ~230 GB e o cache dos renders passa de 100 GB."
+python3 bin/baixar.py --tudo
+python3 bin/baixar.py --render
+open render/black-experience-1080p.mp4
 echo "pronto: abra o Claude Code nesta pasta e peça a mudança (o CLAUDE.md explica o resto)"
