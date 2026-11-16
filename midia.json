@@ -1,0 +1,1365 @@
+{
+ "drive": {
+  "pasta": "1RkGZTTGUiUtwuPBUnYUWd_a9r1V7RNXj",
+  "link": "https://drive.google.com/drive/folders/1RkGZTTGUiUtwuPBUnYUWd_a9r1V7RNXj"
+ },
+ "bruto": {
+  "drone/DJI_0477.MP4": {
+   "id": "1-Ouw_l5PTjBxj1Qu-4RD8K2Sfyjq14oa",
+   "tamanho": 317099962,
+   "md5": "482ded72911339a0162d3fa783340ddf"
+  },
+  "drone/DJI_0478.MP4": {
+   "id": "1tT6XJWmY9t6m6GzNtDf9EEZsKKP0ZXpH",
+   "tamanho": 189859734,
+   "md5": "c404d83d3ff3ce2fffb03ded2d030259"
+  },
+  "drone/DJI_0479.MP4": {
+   "id": "1_6-PFdMLVaZNgWblELxfkdLSZHIc5p_n",
+   "tamanho": 100479988,
+   "md5": "0ebd32fce3233fc22baa8fa41a17dbff"
+  },
+  "drone/DJI_0480.MP4": {
+   "id": "12Zvmyz-NYWMIGi7TS70sXmVjcAt-TIFm",
+   "tamanho": 124827147,
+   "md5": "292e4967eef5de76d5f24f01a4d53265"
+  },
+  "drone/DJI_0481.MP4": {
+   "id": "1ow2RA0OgsFtfqEdYQclDpBo8yFBrx3VG",
+   "tamanho": 231123000,
+   "md5": "adb01a5792c5d5bf2f75c076f9d3fd88"
+  },
+  "drone/DJI_0482.MP4": {
+   "id": "1BRTmTSiS76GyPFmEPIg2scXQlhZSqRCG",
+   "tamanho": 140031941,
+   "md5": "418074613554da541d69a58b6811bd56"
+  },
+  "drone/DJI_0483.MP4": {
+   "id": "1DR69wJEqO-VWgBN4nlFJ8BB9QH9wMJTY",
+   "tamanho": 286389846,
+   "md5": "c360858589c738d2aee3f20b58274ef1"
+  },
+  "drone/DJI_0484.MP4": {
+   "id": "1K8MsGAr-NS45hi_1RlkxbVqByYsc9EUp",
+   "tamanho": 54777032,
+   "md5": "0e164ebb934c0b8389c7499ce350d115"
+  },
+  "drone/DJI_0485.MP4": {
+   "id": "1HvGaIY85GWAID-hsETd9llaUVD06lkiP",
+   "tamanho": 379592350,
+   "md5": "fc08f21f0f17f5f59f3688845ac7c239"
+  },
+  "drone/DJI_0486.MP4": {
+   "id": "1utdRkhvElAT6Pyrot87qg2C-Ukb2p7CK",
+   "tamanho": 255017649,
+   "md5": "1f0545ed1d700a537aa45e381eff6217"
+  },
+  "drone/DJI_0487.MP4": {
+   "id": "1v28fwkIijV18YYEdNncm3wqMRAZVSrGy",
+   "tamanho": 253087972,
+   "md5": "0058b804e49077f02a47862858b1b995"
+  },
+  "drone/DJI_0488.MP4": {
+   "id": "18HA33N77gbTPrQww2gNyCnR8pkLGizR5",
+   "tamanho": 157482654,
+   "md5": "5c92fd84741fad2603cf346118d7f072"
+  },
+  "drone/DJI_0489.MP4": {
+   "id": "1DKA_vfJMpLFCrh2Nmg3k4frvxDv8yfG-",
+   "tamanho": 132429411,
+   "md5": "dfbf79257b0dd66396a192cce50cd461"
+  },
+  "drone/DJI_0490.MP4": {
+   "id": "1eLqTkQZ_I1F9i9T6i1xsdYqLmclGDZ4F",
+   "tamanho": 403221587,
+   "md5": "2c6400631c5e448caabd43ab3cc68a4a"
+  },
+  "drone/DJI_0491.MP4": {
+   "id": "1WLLnfgTQ6VfDAc6GL7VR1A9-1DSHNU8L",
+   "tamanho": 519836726,
+   "md5": "152bd24e77a668c1cd014d1d598d1957"
+  },
+  "drone/DJI_0492.MP4": {
+   "id": "1nTZHALDsM87Snyz5jiNN75AFhNMiWtLW",
+   "tamanho": 110163670,
+   "md5": "9231d7e0f96491d5af6d2f26e8ba8e24"
+  },
+  "drone/DJI_0493.MP4": {
+   "id": "1WWN67MzaVHJ9p6LAbrSFg3DT_lL8MOZL",
+   "tamanho": 171665616,
+   "md5": "0f5b40c7544440235a82c173cec68590"
+  },
+  "drone/DJI_0494.MP4": {
+   "id": "1pJ87nwRK5jTsjUyryaixzVUu4ehLAMAf",
+   "tamanho": 212828026,
+   "md5": "43d3a72db59e0e244c009f12fd3f90a2"
+  },
+  "drone/DJI_0495.MP4": {
+   "id": "1GNLH1gr1BPdsZEcmHphEg3v9R0lqGbKf",
+   "tamanho": 639202094,
+   "md5": "ca82476f4c798b5041ae714d14feef57"
+  },
+  "drone/DJI_0497.MP4": {
+   "id": "1OSwSV8ojl6nSNRDZ7wydZUJbCxOF6wfQ",
+   "tamanho": 133302612,
+   "md5": "04dca7ee64290570dac4063895932f0b"
+  },
+  "drone/DJI_0498.MP4": {
+   "id": "1YxGq8FSW7FkbB1mSpNKh0krPT0GnD7vi",
+   "tamanho": 1198735226,
+   "md5": "39cff021d81c4f20eedb8e43c889438f"
+  },
+  "drone/DJI_0499.MP4": {
+   "id": "1ekOyR0tv4w7eD3rLbgv2Qw2RTiXm_8x-",
+   "tamanho": 184670116,
+   "md5": "0ac4462635f907a057707e8d4dd6f06b"
+  },
+  "drone/DJI_0500.MP4": {
+   "id": "1Pw7YUblKPGYQv9Of5F4YKdbE_nrri6o6",
+   "tamanho": 155749217,
+   "md5": "f2bebd088b5487a8b67274664518fbb8"
+  },
+  "drone/DJI_0501.MP4": {
+   "id": "1uAZJK3xJWfgtbxwf0GNEZ4t0MFkDCCRj",
+   "tamanho": 420477633,
+   "md5": "1faf50218a233529fd06adc7609ef87d"
+  },
+  "fx30/breno.1168.MP4": {
+   "id": "1rHdiEdnA5NefrMWBdlnbFXd3-2sa8CP5",
+   "tamanho": 134803199,
+   "md5": "c3cae7956db0acf364783eaf859ea540"
+  },
+  "fx30/breno.1169.MP4": {
+   "id": "13LYT1XAOnRTbAqQpStG563WbVCMVc2me",
+   "tamanho": 134802787,
+   "md5": "34f3c0885f9c15c5a7717c6c52f358f2"
+  },
+  "fx30/breno.1170.MP4": {
+   "id": "1tPl_hXqc2s27zjGFbrZo4uR1C6vqnC0u",
+   "tamanho": 269025667,
+   "md5": "7f308942439053eef617b19070f56dc8"
+  },
+  "fx30/breno.1171.MP4": {
+   "id": "1IEkr-RqOGu2L7YTPgJffEW4xyvUdxjJX",
+   "tamanho": 201913535,
+   "md5": "e02f4679b87ccda2a7c62b2cb407ae4d"
+  },
+  "fx30/breno.1172.MP4": {
+   "id": "1xn6pV24E1G5P1Cls3vRrMKwZ4DV7VtT7",
+   "tamanho": 134800055,
+   "md5": "911aa1c1e484ebd92ab941e654e4d068"
+  },
+  "fx30/breno.1173.MP4": {
+   "id": "1vAuRzKaqbj93dWSWWsRchMysLzbb3rR8",
+   "tamanho": 67689719,
+   "md5": "bca1843b5b59172a789866fe1a590052"
+  },
+  "fx30/breno.1174.MP4": {
+   "id": "1mvop8zUOGHJr-3Lcg2Nk5unWGFSCOAgm",
+   "tamanho": 134803199,
+   "md5": "22ba6ac1b90299459763be9a26c67ab3"
+  },
+  "fx30/breno.1175.MP4": {
+   "id": "1QtqpbLvaxTfz4TZFhUqRvrK31x7Dq9QL",
+   "tamanho": 134800791,
+   "md5": "e9023b72863616b92edb51d63278cc21"
+  },
+  "fx30/breno.1176.MP4": {
+   "id": "1AnMHlDpCpI5jQaWCqDQ5B9Wi77Spn61q",
+   "tamanho": 67690655,
+   "md5": "e9eddeea9029806688d8a07317e50bd8"
+  },
+  "fx30/breno.1177.MP4": {
+   "id": "1VbhvslgU7zEOa0-RwGbPxD4FVX8mKZ1n",
+   "tamanho": 134801315,
+   "md5": "9cd302aca30e7581956fff548ee21395"
+  },
+  "fx30/breno.1178.MP4": {
+   "id": "1HnGumUBS0B1G4SCZHWvbB5Rni8Ep6PsN",
+   "tamanho": 134801315,
+   "md5": "b2cf92e96f72668547b669277fd3209a"
+  },
+  "fx30/breno.1179.MP4": {
+   "id": "1fz5S-CI_Lm3yJ6nLQfTPk6MWZ35qpuc-",
+   "tamanho": 134800991,
+   "md5": "0f437e4f1732e97c04b89fdea58617b9"
+  },
+  "fx30/breno.1180.MP4": {
+   "id": "1ze-KydEjReIhM4nY3ZKmyghsL4lfQLtX",
+   "tamanho": 134800991,
+   "md5": "d0cfb2d27d6340d5db6741e7de877c93"
+  },
+  "fx30/breno.1181.MP4": {
+   "id": "1mhwcRawy7pIJ2S_KeI5atDiH9PEVQW2O",
+   "tamanho": 134802463,
+   "md5": "7e374336cff0f9d4b88af72816edfc04"
+  },
+  "fx30/breno.1182.MP4": {
+   "id": "1zTk4C7XD0SQ4P-ll3LHrRdX1PuFvvcN5",
+   "tamanho": 134799843,
+   "md5": "22c27fcf7517aacee675b499b01ed09f"
+  },
+  "fx30/breno.1183.MP4": {
+   "id": "1jPDkDH9gXiZJ0fVQ2djW5_vyRIbatVFe",
+   "tamanho": 201913123,
+   "md5": "8039b67be2c5580d90e24b237586e021"
+  },
+  "fx30/breno.1184.MP4": {
+   "id": "1haKml1yeME6GU6azjMKQ2WIeJTWMHykW",
+   "tamanho": 336137889,
+   "md5": "f19704c74204b5a664c7274bd2544cd4"
+  },
+  "fx30/breno.1185.MP4": {
+   "id": "1B8BxzKjX9EUCGH9P8ef_myY3zId4_dGp",
+   "tamanho": 201912799,
+   "md5": "61ce9059c8aa3f466b609f1aef58faeb"
+  },
+  "fx30/breno.1186.MP4": {
+   "id": "1mPXYl647_aJDw4LVSL2jJvPoCqsRZqJx",
+   "tamanho": 201913859,
+   "md5": "b94de58ccb2ba085ca09618f6a53a8ef"
+  },
+  "fx30/breno.1187.MP4": {
+   "id": "1B3fLW1rXsSkM7jLJe6-1HQFhavNj3L1u",
+   "tamanho": 134801115,
+   "md5": "b3bebb1b47e2c1aefb17b5f1a354a09f"
+  },
+  "fx30/breno.1188.MP4": {
+   "id": "1gPnGTaMqOYU4jP9nvGpdkKr5vyHIaMls",
+   "tamanho": 134800255,
+   "md5": "b7e9daf693e5292b38f8be28be0f744a"
+  },
+  "fx30/breno.1189.MP4": {
+   "id": "165hvpiE5KSublyeL7zoEm98kxqWbUb9H",
+   "tamanho": 134801315,
+   "md5": "0c57725c9857d4a47f696a65f7fd36eb"
+  },
+  "fx30/breno.1190.MP4": {
+   "id": "1yVWGllwIerq8CDa3fQXeOlFeOqldxawC",
+   "tamanho": 201914595,
+   "md5": "8b3f8be8eafce4f46f9197eff2f3b53f"
+  },
+  "fx30/breno.1191.MP4": {
+   "id": "17nApVzg-UqUYObPYyaWyZuGQ_yzOsUHZ",
+   "tamanho": 134802463,
+   "md5": "84bd60d544e66dcfb50ad46b2458be0f"
+  },
+  "fx30/breno.1192.MP4": {
+   "id": "1uQoqaiMXJACcVk3LocOciD36Yf8AsCcV",
+   "tamanho": 201913123,
+   "md5": "f912320939852231a67d770d72616542"
+  },
+  "fx30/breno.1193.MP4": {
+   "id": "1Yeg8g9y6gRw26fvUfReic7vXFaTJ-d6E",
+   "tamanho": 134800991,
+   "md5": "65d2a3ee8cd2413860a797ded21b7f8f"
+  },
+  "fx30/breno.1194.MP4": {
+   "id": "17d6-rP8wUTllbqx8oiLbbUk6fKZut-EQ",
+   "tamanho": 134802051,
+   "md5": "e6f4c82a4865f4e368e96f80d62f5e9c"
+  },
+  "fx30/breno.1195.MP4": {
+   "id": "1n9ZIDvI5m9rSItp2HX1Ke0nPu8pjMcPY",
+   "tamanho": 134802051,
+   "md5": "18c362a488824c1dd1a18c9985e649d4"
+  },
+  "fx30/breno.1196.MP4": {
+   "id": "1wHUq2S6Oxla4VVkRF60DQ7ddtu1hfPoq",
+   "tamanho": 134800255,
+   "md5": "fcc49cc05e35a768882b40eaeda0fb3d"
+  },
+  "fx30/breno.1197.MP4": {
+   "id": "1Sw5c1BbaBu-3gphxfIgsW1xb-T1WFPE7",
+   "tamanho": 134801315,
+   "md5": "ff0a798218ceb0938b3a47ab7f6362cd"
+  },
+  "fx30/breno.1198.MP4": {
+   "id": "1KwiPub0M0njhNXszGcQ12AQXZRC6I1H3",
+   "tamanho": 269024931,
+   "md5": "2a8a4b99ad87feea0467334d6488024c"
+  },
+  "fx30/breno.1199.MP4": {
+   "id": "172dTvxI6loy-O7eKbjHcFHyMcGQK2Zvr",
+   "tamanho": 201912387,
+   "md5": "612baf33070ae04a93db44a1c7b7e035"
+  },
+  "fx30/breno.1200.MP4": {
+   "id": "1QGVnYA_j0KZB_oP7eeNU26t4cESyrSi4",
+   "tamanho": 134802463,
+   "md5": "4b958a473d925095de9ae79289de514c"
+  },
+  "fx30/breno.1201.MP4": {
+   "id": "1cPiepX2wd73uzuG9ZF5nZ2mgvqzT7ugG",
+   "tamanho": 336138213,
+   "md5": "ce7adfcbd83e69f4dee874e36eac18af"
+  },
+  "fx30/breno.1202.MP4": {
+   "id": "1_mepqhao7siCdIZY5b2YmHEZNWIVwY8q",
+   "tamanho": 537475845,
+   "md5": "ce1c5105136a4b28a4f68d2fc88cf1ba"
+  },
+  "fx30/breno.1203.MP4": {
+   "id": "1JwJF5SQmMVn3eV4ABOGFs1yVv_e07rwa",
+   "tamanho": 201913859,
+   "md5": "d9309f568ab71fe84d75abd5312b7209"
+  },
+  "fx30/breno.1204.MP4": {
+   "id": "1WsaGp6WVU929yX0NfludGzn3sPWxjJf1",
+   "tamanho": 201913535,
+   "md5": "e046c641f6bd8cabb69b803b015fd88d"
+  },
+  "fx30/breno.1205.MP4": {
+   "id": "1UHqja0_2_5L_KRaRCBribGv2mF6gez1P",
+   "tamanho": 269025667,
+   "md5": "1175ca8035ebeb7fdb9a5bbc1eccff21"
+  },
+  "fx30/breno.1206.MP4": {
+   "id": "1Tx7i6Selx-DCV4cZIuS4wCdVm0cQSylc",
+   "tamanho": 134802051,
+   "md5": "654f987bf2a93b43a8d51d994e39cfbc"
+  },
+  "fx30/breno.1207.MP4": {
+   "id": "1M23ECCWc7YfxSO6OjQ0wyEjhj9_g-1AE",
+   "tamanho": 201912387,
+   "md5": "167de37f715df7a70beff41d693da4b2"
+  },
+  "fx30/breno.1208.MP4": {
+   "id": "1ECHpwaX8XwEv7Sk7OhazFh_lRq69mESK",
+   "tamanho": 134802051,
+   "md5": "090b7b5075784ad5479a0422a47a98d3"
+  },
+  "fx30/breno.1209.MP4": {
+   "id": "1YWr0tq1IbdRIr1_QaJEJqR0fIE9pDrS_",
+   "tamanho": 134801315,
+   "md5": "ba2efed0b72d65fe8063aaae6de9a0a7"
+  },
+  "fx30/breno.1210.MP4": {
+   "id": "1Blixgq2emHNUYYNJ_xfy30X5p0-8zPqh",
+   "tamanho": 134800255,
+   "md5": "643889fad277d53925537c290b81a7bb"
+  },
+  "fx30/breno.1211.MP4": {
+   "id": "1FuCAhtwStlhBC6NiB_SSRjP9EvtWtTOm",
+   "tamanho": 134799843,
+   "md5": "5001e42f95da82798ae41546189b513d"
+  },
+  "fx30/breno.1212.MP4": {
+   "id": "1A3ETof1cQyBwphZMJuKKkqtCG8D05KOZ",
+   "tamanho": 134802051,
+   "md5": "d80b3262dd74d9bf65f31c26d7c51363"
+  },
+  "fx30/breno.1213.MP4": {
+   "id": "1pxQwJrPTADQHBtEr-kNxSgffL3mNQ9-2",
+   "tamanho": 201913535,
+   "md5": "c6d89ddf45fd8457dbf226ff032232c0"
+  },
+  "fx30/breno.1214.MP4": {
+   "id": "1QmYrAIyG5bDRRX-D_avDo0ZCbQhle7pe",
+   "tamanho": 67690655,
+   "md5": "7b3ac5d5d1fe2a27cc27734fee9d97d3"
+  },
+  "fx30/breno.1215.MP4": {
+   "id": "1zWlaITUMfiUmUB8dvD-fRn5FNVuoIs0-",
+   "tamanho": 134801315,
+   "md5": "33c86cda7596668ac98ad639b7702b10"
+  },
+  "fx30/breno.1216.MP4": {
+   "id": "1ITRlTenFHu0ilGkHtHhz6j_pVHeelB9I",
+   "tamanho": 134801315,
+   "md5": "c3ac28dc19fd21c8f28f1e01efa486b2"
+  },
+  "fx30/breno.1217.MP4": {
+   "id": "1IJbOktooB7R-iz7gyXMdAyAQXolijhDQ",
+   "tamanho": 134801315,
+   "md5": "0473d3a21aca1024620a531b883e9a6c"
+  },
+  "fx30/breno.1218.MP4": {
+   "id": "1wU-z2LZ_hF7sG3dIITCljMAK27mjhN3A",
+   "tamanho": 67689919,
+   "md5": "344ca97154345041a41338312a2c5dab"
+  },
+  "fx30/breno.1219.MP4": {
+   "id": "1vVE4dXZz1J23pXaQSoMEy4agUVKOD_lp",
+   "tamanho": 336138625,
+   "md5": "138d29d9b43dc147abc452f423ff50d0"
+  },
+  "fx30/breno.1220.MP4": {
+   "id": "1T2roL2JCd6FMGZoSyg2k3Xj83F3GehaU",
+   "tamanho": 201915331,
+   "md5": "6e094c48bd099d730daea428b7a679b6"
+  },
+  "fx30/breno.1221.MP4": {
+   "id": "1ZgY7eiPYj3jQCiHPRAA69kTrBNabXkGz",
+   "tamanho": 134802051,
+   "md5": "4fd46da8921ea2ca1d8c7fd212c2aab1"
+  },
+  "fx30/breno.1222.MP4": {
+   "id": "1YTD5oYJoTNxBiVF2GtR29zOvZZ26ulkx",
+   "tamanho": 134802051,
+   "md5": "66925281011ce7e916cbae696f8ce2a6"
+  },
+  "fx30/breno.1223.MP4": {
+   "id": "13T2mp1foxYD3aNoaIVzMJ1FG2q0UDbja",
+   "tamanho": 201915331,
+   "md5": "bc67734344fd96ca659598df307867f2"
+  },
+  "fx30/breno.1224.MP4": {
+   "id": "1hKWsffRsTIOS9alc4T7xl5G4tikR4Pzo",
+   "tamanho": 201913123,
+   "md5": "57eeb08784ba02049d661ee00a54f952"
+  },
+  "fx30/breno.1225.MP4": {
+   "id": "1NVmas0F--2nx9vJxoq_2buZvxZCJLaX_",
+   "tamanho": 134802463,
+   "md5": "a20066b68ea4d21eb2b91aefa47839bb"
+  },
+  "fx30/breno.1226.MP4": {
+   "id": "1c8qEOqkI0Ab4cBeMYWq60V0ajoZA91_v",
+   "tamanho": 336139361,
+   "md5": "4c28e2c44106e6ccbc8c81b761445695"
+  },
+  "fx30/breno.1227.MP4": {
+   "id": "1kQRCV-cB87Tv57k3nbSncYUGbwhgOA33",
+   "tamanho": 67690655,
+   "md5": "291a4f335ceaa3db9477568a2ab52bec"
+  },
+  "fx30/breno.1228.MP4": {
+   "id": "14FGWqnpnzo84erwChjZ0yy28OfqKk2TJ",
+   "tamanho": 671701669,
+   "md5": "b12de9c2e9c1dc48ab0d9ede4b4791e7"
+  },
+  "fx30/breno.1229.MP4": {
+   "id": "1DLOFOZiNpQ4sbsrnj-Wj9Yb27V6JVby2",
+   "tamanho": 671700197,
+   "md5": "7b2652f24ee66941ca92e6236bab8e19"
+  },
+  "fx30/breno.1230.MP4": {
+   "id": "1n_mAq7DiyHmPeUeLQBiNzif9K_yEK-LZ",
+   "tamanho": 604587653,
+   "md5": "be6094a1276a65e253a9c9eaa28d90d5"
+  },
+  "fx30/breno.1231.MP4": {
+   "id": "1PvbnKibdOx4M37t2vnhdmLsKwq35PzsD",
+   "tamanho": 2148177637,
+   "md5": "20104dd7675b04bb37e82c158a22d81c"
+  },
+  "fx30/breno.1232.MP4": {
+   "id": "1xo1rXqJQO8ehPB3ZjdRpPGk5M4FKeVyh",
+   "tamanho": 604589661,
+   "md5": "9fd5bc1aed98e3d64cf049526519e02e"
+  },
+  "fx30/breno.1233.MP4": {
+   "id": "1FFMGeMQw2PILlPhrh1IByP7AQQrE_CfA",
+   "tamanho": 604590073,
+   "md5": "c5041f1ac02057c1e64246dad2408752"
+  },
+  "fx30/breno.1234.MP4": {
+   "id": "1NvAekmiaNMTy9eLAldNi03vINiTt040g",
+   "tamanho": 134800579,
+   "md5": "060241822e5d07a7d8093c4a74c08b46"
+  },
+  "fx30/breno.1235.MP4": {
+   "id": "18CEVZ2k59ZkeSqxQ9DSxkllP1m1VJM1Q",
+   "tamanho": 1544162945,
+   "md5": "a6d8d2cd1c503d790c6ae4d3e0633597"
+  },
+  "fx30/breno.1236.MP4": {
+   "id": "1gbzJHlsrYidWepXMncNAQVzev0BfT_rt",
+   "tamanho": 1074376933,
+   "md5": "6116a16f7d73e4a001cc22e14806aca2"
+  },
+  "fx30/breno.1237.MP4": {
+   "id": "1acXfHpOcTXiyy872N2vhC34mEq67MSV3",
+   "tamanho": 201913659,
+   "md5": "fe0060a99feba11f81490421a42a9edc"
+  },
+  "fx30/breno.1238.MP4": {
+   "id": "1f1w2dJuE-0d_k1k3xi4ArPS_E0iJYZ5y",
+   "tamanho": 134803199,
+   "md5": "ab97d94bf40bbf5017fdf02d1e9efece"
+  },
+  "fx30/breno.1239.MP4": {
+   "id": "1-lB6YcwOc7E2Dk_FFdbPf2DlzD_fzpgf",
+   "tamanho": 470365721,
+   "md5": "561f466fb358ee43dc5dbb4c97e61f7a"
+  },
+  "fx30/breno.1240.MP4": {
+   "id": "1DBHrba4g3n-umpuhOPcerJPa0ErcUlDa",
+   "tamanho": 201914395,
+   "md5": "07e15ec62687e07f0e87cd8d03b4f609"
+  },
+  "fx30/breno.1241.MP4": {
+   "id": "130JTPLwqi6shgyLgrYsy0ueJJfSPFkdK",
+   "tamanho": 67690655,
+   "md5": "64e57ccdf863e46ebe1f7bd48cd04d22"
+  },
+  "fx30/breno.1242.MP4": {
+   "id": "1b0PlfHk3kV2i1R1K1pMIvN9MZDn04FSl",
+   "tamanho": 67689919,
+   "md5": "29ed4987e57f74ba725e020c55832a55"
+  },
+  "fx30/breno.1243.MP4": {
+   "id": "1bJyjFf_TGlzk4ml9d0F1NH2734Br-CpK",
+   "tamanho": 671702405,
+   "md5": "608d2dea4f1395207339371dd474a4ff"
+  },
+  "fx30/breno.1244.MP4": {
+   "id": "1vtPEKUucggf53f4-Xg4vFh5qWiyjKxdS",
+   "tamanho": 2685076519,
+   "md5": "32c53b4a912a51d1d86855af0655858c"
+  },
+  "fx30/breno.1245.MP4": {
+   "id": "1rLYxnC0x5Al1Qv5MsljeJTGIvlUpjUEU",
+   "tamanho": 1342826373,
+   "md5": "a93239ed80782c986c089b206262c60b"
+  },
+  "fx30/breno.1246.MP4": {
+   "id": "1BuYwNUrz353NLlBaJaU2M99Ez2ltJU1l",
+   "tamanho": 269025467,
+   "md5": "14502e25bb7c873499438ba112223295"
+  },
+  "fx30/breno.1247.MP4": {
+   "id": "1PuOzbrwuw3WMztmxhfVre2RmFLageB5J",
+   "tamanho": 269024731,
+   "md5": "3464cd5c17c3e7858f7c121581b294f6"
+  },
+  "fx30/breno.1248.MP4": {
+   "id": "16Zi3fNoGcrpAPjFAS_ORpuPlyBi68wjF",
+   "tamanho": 134802051,
+   "md5": "a395c740752e4098c7b091fa7ca18724"
+  },
+  "fx30/breno.1249.MP4": {
+   "id": "1BYQ78yu487e3rSKCksyaofBviM6SQPkv",
+   "tamanho": 269025343,
+   "md5": "a6b4d6e2ac3635858604ed32f2954207"
+  },
+  "fx30/breno.1250.MP4": {
+   "id": "1SJtwUJ2NB7BEYq0Sx_jN876uksfnM1dV",
+   "tamanho": 201915007,
+   "md5": "0212c5caac1654bac320393e2c300664"
+  },
+  "fx30/breno.1251.MP4": {
+   "id": "1tuBcQPIS8hVA3fKdcwrW9RSiV8bk6jGB",
+   "tamanho": 201913859,
+   "md5": "f42b86b8a7ac02b4043879ab1b515d4a"
+  },
+  "fx30/breno.1252.MP4": {
+   "id": "14-ziuvZ_ZZZ-5SnCzX7kOKqR3gKPfD5L",
+   "tamanho": 134800991,
+   "md5": "13f376caf00c1c10bf2594d3dbe2bb98"
+  },
+  "fx30/breno.1253.MP4": {
+   "id": "1za9tjumXRjWfNLF1yxZ5rlW_CP8guimb",
+   "tamanho": 201912984,
+   "md5": "90fbfd6ecece5419b30a501892025d69"
+  },
+  "fx30/breno.1254.MP4": {
+   "id": "1-_jdTVrBqShnHkrykzbtIq3Uv7PkBTAk",
+   "tamanho": 201914595,
+   "md5": "fe15e337a869c3ae310afd9ca1953d09"
+  },
+  "fx30/breno.1255.MP4": {
+   "id": "1o94IfbMR4Eo3YSosD07PuwUuzXvuYRWo",
+   "tamanho": 4497120339,
+   "md5": "d42bf801445a1a71781a8a708e0d9452"
+  },
+  "fx30/breno.1256.MP4": {
+   "id": "1VGtS-3yYVTIPlzhwLnahuUsb7We-GjtL",
+   "tamanho": 14630599043,
+   "md5": "04e3aed02ad4e72c2c63e0a5a6514852"
+  },
+  "fx30/breno.1257.MP4": {
+   "id": "1IHeB9MnfyMQ7v9C0LmlpLNpJxZEB-gua",
+   "tamanho": 336128508,
+   "md5": "3d77889cba8b3052019ac4e720f72104"
+  },
+  "fx30/breno.1258.MP4": {
+   "id": "11inDvAUedalBQv6hdgz75wO3auxrQTp8",
+   "tamanho": 16442573727,
+   "md5": "8e70fd63c32a7d3f0601e67f72700396"
+  },
+  "fx30/breno.1259.MP4": {
+   "id": "1rqbW3pgAxJfyH4TogbfvTjZKXt3qZBe_",
+   "tamanho": 403238256,
+   "md5": "357fb9b3785e9c3f9d65d3c3b937e7c8"
+  },
+  "fx30/breno.1260.MP4": {
+   "id": "100Lr53B_Zn9Z40yqs38b8C7wYQ1G1DNT",
+   "tamanho": 13556835623,
+   "md5": "879d54e56ff7b4734f1fddd50739d067"
+  },
+  "fx30/breno.1261.MP4": {
+   "id": "1JaBr48Juq1J4BuxC71z_LeXydQxdIUPM",
+   "tamanho": 201908064,
+   "md5": "752dfd28487ecd5bafc4e24caf092b6b"
+  },
+  "fx30/breno.1262.MP4": {
+   "id": "1D5A_az9HPWPnAiTag2dbEk61cH1Ao6XU",
+   "tamanho": 201914595,
+   "md5": "807880781ca77f972544e589deff162c"
+  },
+  "fx30/breno.1263.MP4": {
+   "id": "1-xCC-SF66N8Ouzglw8VRznmH8oXtfcGK",
+   "tamanho": 67689919,
+   "md5": "2b0738943914f863936f8b1b584fd1d3"
+  },
+  "fx30/breno.1264.MP4": {
+   "id": "1V9CUXV01zV9PdeoPZMk3b4FmTAZo9VJ8",
+   "tamanho": 67690243,
+   "md5": "802bc0baf64d7a8a608d5a30c760b5a9"
+  },
+  "fx30/breno.1265.MP4": {
+   "id": "1aYOiN5kzJGAoiiXdFxtwMOV2WWiTrMNp",
+   "tamanho": 134800255,
+   "md5": "e4cbc7f3a02a2104f580ef9fa7b63d5d"
+  },
+  "fx30/breno.1266.MP4": {
+   "id": "1q1XO2sm0y9iQXvhUw9AqMaosk9GaNs57",
+   "tamanho": 134802263,
+   "md5": "2cfd9ffc4cec1f36a481bcae757c57b3"
+  },
+  "fx30/breno.1267.MP4": {
+   "id": "1HCzMf0g-9FzZaYe7gxoRPbVyE1gPxeDy",
+   "tamanho": 134801115,
+   "md5": "f4cba5c9c726ac28e95cf9e309a4ad6f"
+  },
+  "fx30/breno.1268.MP4": {
+   "id": "10mhO7J0TFHV1dElqg2lGzDhen51Dia48",
+   "tamanho": 67690455,
+   "md5": "c168a5da82cfb33f22433e4fdd62bc08"
+  },
+  "fx30/breno.1269.MP4": {
+   "id": "1O-TN0Iqnyk_rEGT2BuoonYO-Ewk3-H7T",
+   "tamanho": 201912923,
+   "md5": "df8090ccfcc51076dbe14246430e8022"
+  },
+  "fx30/breno.1270.MP4": {
+   "id": "1ea2byEvlFy7T5iu8rl-dPgdx9alSWMJ7",
+   "tamanho": 3557541475,
+   "md5": "396389805af54886064b9ad383fec960"
+  },
+  "fx30/breno.1271.MP4": {
+   "id": "1LQ3gUCF3hKHxlNt7YD34dSOav_T5VIU2",
+   "tamanho": 134802999,
+   "md5": "e22ddf02b78fd394ab8870c045b2c4fd"
+  },
+  "fx30/breno.1272.MP4": {
+   "id": "16qKFj6nMzDODl_Zo2V47JW55RIckpGdW",
+   "tamanho": 134799643,
+   "md5": "ecc0513ba49fa3988957cc50fc46c595"
+  },
+  "fx30/breno.1273.MP4": {
+   "id": "1QiRYZsPFp0gsRwDJRy6pAAjP4SEMvW6g",
+   "tamanho": 134800791,
+   "md5": "bca1e295299481634254d9a717e6d79f"
+  },
+  "fx30/breno.1274.MP4": {
+   "id": "1ht0yOeCmA6Z2OTYW9MGk-5uw0o13hMom",
+   "tamanho": 201914807,
+   "md5": "12052d3634cd1f99c0fed678cbfe54af"
+  },
+  "fx30/breno.1275.MP4": {
+   "id": "1O7BDwQ8GpQSmufYPKD8kpvS_kyOFns_M",
+   "tamanho": 67690043,
+   "md5": "4101e1605ff9de940b0de594833de67c"
+  },
+  "fx30/breno.1276.MP4": {
+   "id": "1PSaEKBSqIx73ikzmiMmfs1rNDChNJWa5",
+   "tamanho": 134799643,
+   "md5": "90a44572941f084379b810bfb0190886"
+  },
+  "fx30/breno.1277.MP4": {
+   "id": "1yeK0poOyD6EE12PntBR8B-6I0aE6g1dk",
+   "tamanho": 134800055,
+   "md5": "3573a598a859403c3dd44cf1dc28d4b4"
+  },
+  "fx30/breno.1278.MP4": {
+   "id": "1KURbhSF8b1gErB3aWmQ8gWlP5VqAhRFN",
+   "tamanho": 134801115,
+   "md5": "4c03562be623649b127bb8131aecc226"
+  },
+  "fx30/breno.1279.MP4": {
+   "id": "1ytAbFmUBYGv1ByTTcsNnzArrU4dZKQVg",
+   "tamanho": 67690455,
+   "md5": "50dd2274dc2b4e0df643ab533436b29f"
+  },
+  "fx30/breno.1280.MP4": {
+   "id": "16Lt8_TfveyKmdIxFZbdVFxVOzh5N3itd",
+   "tamanho": 336139485,
+   "md5": "aea5b23d7fc1e5ad6515d23fb4ee45e2"
+  },
+  "fx30/breno.1281.MP4": {
+   "id": "18VmxbDrXRHcdQmYEsSwNTXDzIQktcfb4",
+   "tamanho": 134802587,
+   "md5": "f1bc6fe13e3f5bec542bf235721ca9b4"
+  },
+  "fx30/breno.1282.MP4": {
+   "id": "1bH0ZUUB6gmAnrBGSq9e1gzyufP1oyhoY",
+   "tamanho": 201913123,
+   "md5": "4dfb9d5bb77b3bcc2fd3d15949928fff"
+  },
+  "fx30/breno.1283.MP4": {
+   "id": "1sh6h8Lq5skz9yKinozwfIzMhQko8v1JH",
+   "tamanho": 201914395,
+   "md5": "cbaf86262aecffa0a8e24736767dd677"
+  },
+  "fx30/breno.1284.MP4": {
+   "id": "19NhDP1YPCNbjl5f_gH1Au53opNnIrDq6",
+   "tamanho": 134799643,
+   "md5": "1cac18bdb149ec730ce0ad9641a92ed4"
+  },
+  "fx30/breno.1285.MP4": {
+   "id": "1UR_Jm1fEBlRTIvQ6_E5RwjsHB8-ZUKbn",
+   "tamanho": 134801115,
+   "md5": "70bd7bd218366d5efe4b66cd33684c0b"
+  },
+  "fx30/breno.1286.MP4": {
+   "id": "1g0YY5JoeqY2rfz6oeL3GhD2C9F42qmfn",
+   "tamanho": 134802263,
+   "md5": "89f680dfd956e26b34f337bea516a5c5"
+  },
+  "fx30/breno.1287.MP4": {
+   "id": "1XYQs2f0MCOw0y0-ovYm7Em5yCJuuQZBu",
+   "tamanho": 738814425,
+   "md5": "99c58e43c95458e41bbe9901d79476f6"
+  },
+  "fx30/breno.1288.MP4": {
+   "id": "1SND2Av8csm9WIjZPDJ8q3Cug7T_nFmuN",
+   "tamanho": 269025879,
+   "md5": "672461bbba695dc76441aa461b6ac1c4"
+  },
+  "fx30/breno.1289.MP4": {
+   "id": "1_hMf99cUXBmdGE4hahwNesqaiX95-_DO",
+   "tamanho": 269026617,
+   "md5": "f810b5ceb8856b0972a4e3cbc9ba4d82"
+  },
+  "fx30/breno.1290.MP4": {
+   "id": "1TIjehtXmQJAKhkg2LWNtYPuoJgPw-oT9",
+   "tamanho": 470365185,
+   "md5": "b26be587369fa72c2066ea32690824ee"
+  },
+  "fx30/breno.1291.MP4": {
+   "id": "1LoRVzsFbsklraheqUsHj1V9zkrgOQVnz",
+   "tamanho": 201914807,
+   "md5": "9cae0ee896b461c3b54dac69a3369704"
+  },
+  "fx30/breno.1292.MP4": {
+   "id": "1kkBtT_oRP8UY2SBaqrywXhZpj88-3Js5",
+   "tamanho": 1074375137,
+   "md5": "942bc76ba5c29560af506e1cd327a843"
+  },
+  "fx30/breno.1293.MP4": {
+   "id": "1g59qSKd1urHHhKGeBQtM9ePUISkBmPqu",
+   "tamanho": 134802463,
+   "md5": "5b078d9c6ce85c397a040cc25535a732"
+  },
+  "fx30/breno.1294.MP4": {
+   "id": "1ygh5mJeidYc9EK6wmeAdOcVfVSWbUh2M",
+   "tamanho": 2550853639,
+   "md5": "51396aab2ae5a49507fe45f714a132ff"
+  },
+  "fx30/breno.1295.MP4": {
+   "id": "17JNO2nECQp3HiBnit3I6UhsfI5iTyN1x",
+   "tamanho": 1007264801,
+   "md5": "29da5d5986b5bb3ae0a1e5f0adcfa3a5"
+  },
+  "fx30/breno.1296.MP4": {
+   "id": "1ITguJebUynUloi_zuQooj2Gr2vSxyk_C",
+   "tamanho": 269025143,
+   "md5": "bbd0f0d0a47265ea9d63c62fddff8cce"
+  },
+  "fx30/breno.1297.MP4": {
+   "id": "1YNS4mfciGH09e5opXlVfpa1NitPkOkuf",
+   "tamanho": 67690043,
+   "md5": "1429ac44ce73a855847f5c020e501e33"
+  },
+  "fx30/breno.1298.MP4": {
+   "id": "1XrCB1CU262x0ZGhPYDSs6DaTLp020FCE",
+   "tamanho": 336139361,
+   "md5": "bd3e5401982bf407d6c20fab21a79223"
+  },
+  "fx30/breno.1299.MP4": {
+   "id": "1efX9oVaamtQJEc92d5MxEwa54fKSZzrs",
+   "tamanho": 2886414887,
+   "md5": "10d035bd76e8b0421f752739866db7df"
+  },
+  "fx30/breno.1300.MP4": {
+   "id": "10zQlt0XF5ZT64L4lFxEAuWgqCd8QqEAt",
+   "tamanho": 1678330270,
+   "md5": "b47b6e9732951e8956223449691e588d"
+  },
+  "fx30/breno.1301.MP4": {
+   "id": "1a8gkC1-PXUnuyeSn84cDqbSIZI3CuRVb",
+   "tamanho": 67687530,
+   "md5": "5cc80517a6dcd31291198aa6648a5584"
+  },
+  "fx30/breno.1302.MP4": {
+   "id": "12_ovxvI7YbVAp3IDa8yyaZ7_d1spGRbb",
+   "tamanho": 3087643294,
+   "md5": "ad37c03a62bd625c7b19f96f08af45f5"
+  },
+  "fx30/breno.1303.MP4": {
+   "id": "1WMXi4kosyaHunyhz1oE20BVmDRzjRF9N",
+   "tamanho": 2013880994,
+   "md5": "9aecd3a83641397f4b578808523c2de7"
+  },
+  "fx30/breno.1304.MP4": {
+   "id": "1I8F8GxpTHuhuplTqaoPH6_SAB8Ea_5ek",
+   "tamanho": 4295625886,
+   "md5": "354aaf5b91745ed5ae400781df59c869"
+  },
+  "fx30/breno.1305.MP4": {
+   "id": "1BGkBbOrLmTBm_EosDydZzfsqrHlQtSZq",
+   "tamanho": 2349431870,
+   "md5": "a8f45dbf3adc6ddd749c58d3f233e815"
+  },
+  "fx30/breno.1306.MP4": {
+   "id": "1NLsYlWZ-ydj_vdl0PU6_5dnWiW8cDlw8",
+   "tamanho": 1946771486,
+   "md5": "6e7eba844bc6fe37619654d17cf25f21"
+  },
+  "fx30/breno.1307.MP4": {
+   "id": "1XwGzWKpKNJRdNh7l5l9tBCexKLR4Zn8I",
+   "tamanho": 67688174,
+   "md5": "79b3d79c20915a4edf3b7946e0fa8673"
+  },
+  "fx30/breno.1308.MP4": {
+   "id": "1HdphRfp5sunTcv00hyhjimLfuanatO6d",
+   "tamanho": 1141449998,
+   "md5": "725f454561939b351f77b670e2268466"
+  },
+  "fx30/breno.1309.MP4": {
+   "id": "1uyUSVx-1FQFIpK7kVUZjJ3wZrqFi3mgW",
+   "tamanho": 2215212222,
+   "md5": "3b377db3f68fc76a6175368ced0da1c0"
+  },
+  "fx30/breno.1310.MP4": {
+   "id": "1DON-XTg3v28xXRKZkTPNKEvWygleBWY5",
+   "tamanho": 805899678,
+   "md5": "291b0a88dbe7f2bfba11d2ae5a336592"
+  },
+  "fx30/breno.1311.MP4": {
+   "id": "1yrw1XzrbWyt9gqdCrjSP7IFzmpeOEhZp",
+   "tamanho": 2148102103,
+   "md5": "8107ca78a280fd30b56969f436694a72"
+  },
+  "fx30/breno.1312.MP4": {
+   "id": "1jCp3y-IimluihtTnzBTQ1MbJKhlxNdec",
+   "tamanho": 1812551118,
+   "md5": "caf5dcd2ea7c6757e3b8c3278a876143"
+  },
+  "fx30/breno.1313.MP4": {
+   "id": "1LznXhU9lNUDwUNXdI5YIh8zzYS7CG_wk",
+   "tamanho": 1208560226,
+   "md5": "b1beabb42ba07eb2e9783f563edf7f61"
+  },
+  "fx30/breno.1314.MP4": {
+   "id": "1ankSdIeyARkuQJYIRz7XFddeBx8tAq2M",
+   "tamanho": 671678535,
+   "md5": "ff981ee7a44782d01d22a78a1293600d"
+  },
+  "fx30/breno.1315.MP4": {
+   "id": "1CJKz9LgqXRghRmz7pvf_1I1XE9vi9O2K",
+   "tamanho": 67690455,
+   "md5": "60f19dfa6894a0ec475ea8bf090206d2"
+  },
+  "fx30/breno.1316.MP4": {
+   "id": "1HpAycAK7Ucecl82ZM39YXX8x9JDH4vwC",
+   "tamanho": 604588925,
+   "md5": "a09e5303a84c69925826b1354901769b"
+  },
+  "fx30/breno.1317.MP4": {
+   "id": "1UhVhc-DIopBW0BLnq3hu-kuYA9ya9U8t",
+   "tamanho": 940152381,
+   "md5": "c3e3a7f1e4dc229f8f2bb4510c90158e"
+  },
+  "fx30/breno.1318.MP4": {
+   "id": "1BX64vKEgPGf7tvbt2RdK1OVtUPtYmahm",
+   "tamanho": 403250233,
+   "md5": "070a9aed2741c3af30eb191785e31368"
+  },
+  "fx30/breno.1319.MP4": {
+   "id": "1dFPUGsakuyPgTMlybYuuQQRYM6uLdrfx",
+   "tamanho": 537456917,
+   "md5": "ea07151012b6453175d67de8b335b202"
+  },
+  "fx30/breno.1320.MP4": {
+   "id": "1HcUPfcPopfj-uSXPlpOhHomKfFKhF_rf",
+   "tamanho": 269017765,
+   "md5": "6fc90971a8ae1914ae13e6ba6f4ef5d1"
+  },
+  "fx30/breno.1321.MP4": {
+   "id": "1p9YiD127t36RC9o-mffgrpGDttnwEX1C",
+   "tamanho": 269017415,
+   "md5": "f5f4a05eb6dd03a4938466a66efb0b0d"
+  },
+  "fx30/breno.1322.MP4": {
+   "id": "1ylqP5JwDRZK95XkRp1kNLstHbiCjvwah",
+   "tamanho": 201907977,
+   "md5": "685040659f6fbae288c800240dd0e5ae"
+  },
+  "fx30/breno.1323.MP4": {
+   "id": "1jzD_GRX90O1JJCMPMEHSOo7heh4Q8Gt-",
+   "tamanho": 67687823,
+   "md5": "2e5c69657905f58da1c49b7b04989204"
+  },
+  "fx30/breno.1324.MP4": {
+   "id": "1H4WsQQn5b550Jt1VksLZ1o_TzQQ5aO8c",
+   "tamanho": 336127705,
+   "md5": "8a8edf4819424446e89864e5ab16b63b"
+  },
+  "fx30/breno.1325.MP4": {
+   "id": "1Is1k1lxdSJeezD-MWGAgcnqtNEQhNrPI",
+   "tamanho": 201907669,
+   "md5": "0f9ffc84de8b6b4dd8dcafdd55be24e9"
+  },
+  "fx30/breno.1326.MP4": {
+   "id": "1euhrT8MnPVoV88dlrkprOhv5GxwJ1TEy",
+   "tamanho": 336127133,
+   "md5": "c78efaca254c66faf65fb6faaf787fb2"
+  },
+  "fx30/breno.1327.MP4": {
+   "id": "11ktlk4mcdyFighZ1A0GvLGfpuFMCzULG",
+   "tamanho": 201907361,
+   "md5": "c064f31e7953aeedbd57e9631108fc47"
+  },
+  "fx30/breno.1328.MP4": {
+   "id": "1EoEwVExdWCh3VaKe4z8AceXfg4wDyHyY",
+   "tamanho": 336127175,
+   "md5": "aa36c29063c19bbcddb04b5e246be36d"
+  },
+  "fx30/breno.1329.MP4": {
+   "id": "1BoWItExy_DJZ4yHzyknTOgXY17saLFlL",
+   "tamanho": 269017961,
+   "md5": "750cd04a34d0c654dfec85ace2e477f8"
+  },
+  "fx30/breno.1330.MP4": {
+   "id": "1VLhrfZW4MD6ylFczokF-aaMt-0uOWgGY",
+   "tamanho": 336126977,
+   "md5": "9a002cfc5ee43d8a323124f918c8d84a"
+  },
+  "fx30/breno.1331.MP4": {
+   "id": "1jZcwQQ8SE2IRQio-D-iY7BBeK1-YauLW",
+   "tamanho": 269017037,
+   "md5": "03016868175a1ba65b84e80eb96c6be4"
+  },
+  "fx30/breno.1332.MP4": {
+   "id": "1ADkv302ZpXpfgGRLUgzPCuuSuMCQrqUn",
+   "tamanho": 336126977,
+   "md5": "6411330f79a2195e1e37d493f8765d64"
+  },
+  "fx30/breno.1333.MP4": {
+   "id": "19JKSvj9Vn-CnC1TfGyUPaoRBCRijiCPM",
+   "tamanho": 1678327667,
+   "md5": "23b8cf92113023b5c7a339b4542ef123"
+  },
+  "fx30/breno.1336.MP4": {
+   "id": "1TNlZC1OzimRra7UkbQlGnoz_5E99lAEL",
+   "tamanho": 3221857103,
+   "md5": "dbbf2296d6d5936a98ed94ee5d993ef6"
+  },
+  "fx30/breno.1338.MP4": {
+   "id": "1XJC6SAYBOfix6lvXoWeyamRpaEKajHn9",
+   "tamanho": 134797265,
+   "md5": "fb790f1e9f5b394324b41ba92ec56894"
+  },
+  "fx30/breno.1339.MP4": {
+   "id": "1wfq5vn4P7YEM2DHjc_decAtxNMggQlL7",
+   "tamanho": 134797921,
+   "md5": "a6db54ad39fc79456d6543576ea7ecac"
+  },
+  "fx30/breno.1340.MP4": {
+   "id": "169iW19Ei_EogvkG4_P9IGwfDa6Gwr-BC",
+   "tamanho": 537457265,
+   "md5": "334353b2f9914a6d94c448db9b5a9cdf"
+  },
+  "fx30/breno.1343.MP4": {
+   "id": "1Lu7J3aR7opHMdWql7QaNHsubiKhMiQ9E",
+   "tamanho": 134797461,
+   "md5": "1235ba8cc1be5c49cb9906da0a3abdf6"
+  },
+  "fx30/breno.1344.MP4": {
+   "id": "1TlvXb4ICJhPZgsIrRSdZuK8ZIy1YaFwT",
+   "tamanho": 269017805,
+   "md5": "b6da138099c4a4103ff455b9f3046198"
+  },
+  "fx30/breno.1346.MP4": {
+   "id": "1EP4HwHuMyubBMTTMr77LAIrl2m7TA2Wn",
+   "tamanho": 201907865,
+   "md5": "ebac552eb16e4319f5d9074706cfa21c"
+  },
+  "fx30/breno.1349.MP4": {
+   "id": "15Q2q_YQoxsldw2xy0bDR5YUKYdET-2i3",
+   "tamanho": 671677069,
+   "md5": "3437df226fb5b3d4ea8d1fc0c2213a5f"
+  },
+  "fx30/breno.1350.MP4": {
+   "id": "1XkRJhCjC3DFilUA1WIv641d_apYt5RA-",
+   "tamanho": 805896995,
+   "md5": "7af05be8d4f34b2dfb8b0c8bf31e515f"
+  },
+  "fx30/breno.1351.MP4": {
+   "id": "1CBu5zJjlS54YrggxHBe0DYGy7Y6PjKbe",
+   "tamanho": 1007227939,
+   "md5": "1904279fdc0795d2b4bef110f819219c"
+  },
+  "fx30/breno.1352.MP4": {
+   "id": "1-1u_0_iSaNmjZ43_6DM1ME_jrUCh6X6l",
+   "tamanho": 336127285,
+   "md5": "27c4259b9eb6d422d1f13ed0fd3f9d5d"
+  },
+  "fx30/breno.1353.MP4": {
+   "id": "156CbVy8qI4HRG-cvb6FHhyElhEqSLo6C",
+   "tamanho": 403237537,
+   "md5": "f2056b4106e3c53611b0e1eed55e4b24"
+  },
+  "fx30/breno.1354.MP4": {
+   "id": "1GUtAtGSzAGMAicRjf-j9uCamWi-SrhJS",
+   "tamanho": 738787009,
+   "md5": "7c0ff4a8246b8110ba2afe80bc28a17c"
+  },
+  "fx30/breno.1355.MP4": {
+   "id": "18xqVGwA0n3K-kSIKBUcomNPsDaWOzTFv",
+   "tamanho": 604567517,
+   "md5": "60ed6f5d54e2044aabe4c769cab9329e"
+  },
+  "fx30/breno.1356.MP4": {
+   "id": "1uEI1CAoUz5t-OaKSCHgN37rKdaJffnG2",
+   "tamanho": 671677685,
+   "md5": "a6282cdc8f2c66f268228441b1e786b7"
+  },
+  "fx30/breno.1357.MP4": {
+   "id": "1fB9sdYERQ0zu5QhOhAdJZNNDAm9KTqdc",
+   "tamanho": 201906941,
+   "md5": "3c9b682bc107cabc558fb70761d1d035"
+  },
+  "fx30/breno.1358.MP4": {
+   "id": "1fv0Lgzug4o_Y9abcwf28tQ3ctWKALQJx",
+   "tamanho": 134797613,
+   "md5": "8e05fdd48d2ba4240599ed287e3c006c"
+  },
+  "fx30/breno.1359.MP4": {
+   "id": "1covl60Mqp6iOicrVfvxW795r1ZcjaHu5",
+   "tamanho": 134797461,
+   "md5": "50025c10393b293dd5e21ac4c58ecd45"
+  },
+  "fx30/breno.1360.MP4": {
+   "id": "1oAGVS_L_UNUV1BYkQd52KZMgAw1HZeG9",
+   "tamanho": 1275667091,
+   "md5": "d5a3d3f6413f11f13f1c645707407045"
+  },
+  "fx30/breno.1361.MP4": {
+   "id": "1-P45HyYZ_N0AtwJUhByv6vB31Q06dOky",
+   "tamanho": 671677151,
+   "md5": "824da14ceaffe1bff17e932aaf125c1d"
+  },
+  "fx30/breno.1362.MP4": {
+   "id": "1mMeCiuusoSK2Hlqp1IlYpPmNG_p_886J",
+   "tamanho": 1476996989,
+   "md5": "0b78057dbf05a7224ee30975ca6caf27"
+  },
+  "fx30/breno.1363.MP4": {
+   "id": "1mWfCIskXUwp36WSqOR4v0U3DUiO_XZx6",
+   "tamanho": 201906941,
+   "md5": "14b9b4c09daf80bf9598fbe456a3d5d2"
+  },
+  "fx30/breno.1364.MP4": {
+   "id": "1hw-xvq1dyZy4RCwg59ejtN_HQJgZlztl",
+   "tamanho": 336127441,
+   "md5": "18e8d27ed7b5ad132152045e74a6b286"
+  },
+  "fx30/breno.1365.MP4": {
+   "id": "1eB9Qc3MkTLjaJTRyCIUi3fqVw9g5aU0Q",
+   "tamanho": 2349427005,
+   "md5": "5c5d2421cb48119e015e026edf6abb66"
+  },
+  "fx30/breno.1366.MP4": {
+   "id": "1SxqjgIDvKPpSdViSxincPNzcBRWg8Dzf",
+   "tamanho": 201907779,
+   "md5": "7ba94f8bf81115b3c2be630d208a3533"
+  },
+  "fx30/breno.1367.MP4": {
+   "id": "1f0_gkmOO33WLPfonfPWBBp0iqGe7-bEh",
+   "tamanho": 537457951,
+   "md5": "8c454415b0ebcfc027f1e9a15133ba32"
+  },
+  "fx30/breno.1368.MP4": {
+   "id": "1258a60FMOuiRggCi1w5k_pQy1DaFbS9t",
+   "tamanho": 1678327823,
+   "md5": "916e5b85047a761100e0810b622aad7c"
+  },
+  "fx30/breno.1370.MP4": {
+   "id": "1SN0SNWQ468AFaVjxr8PJrwrwFXerEE3C",
+   "tamanho": 1544107393,
+   "md5": "91a9f2971d08dbf972c8f6adae63322b"
+  },
+  "fx30/breno.1371.MP4": {
+   "id": "1IgMvEbGfZ_4-cBcabgq8Pmpe3bKrytyq",
+   "tamanho": 1678327823,
+   "md5": "2fda87f8758695ffcd02767c4314a93c"
+  },
+  "fx30/breno.1372.MP4": {
+   "id": "1BdSbsSUawx3UYMj7eDyjZhB-oJc2rAXb",
+   "tamanho": 6308925039,
+   "md5": "ed701d26b01d43ce3dda1df7589a4d1f"
+  },
+  "fx30/breno.1374.MP4": {
+   "id": "1t7c7r3kmWbgYFDi0McH1oXSF_FvyDWhZ",
+   "tamanho": 4295616639,
+   "md5": "8c31cc47ba2f1352e67493910d1d4355"
+  },
+  "fx30/breno.1375.MP4": {
+   "id": "14YL-1noRsEgzZ3aJOiYVs-0-j5xVH24A",
+   "tamanho": 2953417335,
+   "md5": "85fef47c9751d133856e4fbdead7c83e"
+  },
+  "fx30/breno.1376.MP4": {
+   "id": "1T5c0Ri5L2UlaFUbDiAenLQezp_FqTqME",
+   "tamanho": 1745437350,
+   "md5": "ea42dd24fb96df0768065c24e89e1e0e"
+  },
+  "fx30/breno.1377.MP4": {
+   "id": "1y-0qXd5h8APmkXeSyWgDoGfthmN1SBbY",
+   "tamanho": 134797461,
+   "md5": "8fa59b84743e9aaa55c952d45e0cb126"
+  },
+  "fx30/breno.1378.MP4": {
+   "id": "1g5VRo0Tm_S0KTVTqpV-dHb1WWTw3k09p",
+   "tamanho": 738787711,
+   "md5": "86abcc514bf140d15a46825efd4af1ce"
+  },
+  "fx30/breno.1379.MP4": {
+   "id": "1boApsto7Ni0xh7_8Amc2HuX2jsf6NMKy",
+   "tamanho": 403237845,
+   "md5": "df9fa59521388fb6a57ff579694f393e"
+  },
+  "fx30/breno.1380.MP4": {
+   "id": "1ZU6Iiqy2U6ju4BYwZN3TiyoZiXTu8OsG",
+   "tamanho": 134797461,
+   "md5": "0218dc029b958a4ffa2cd820a4d05248"
+  },
+  "fx30/breno.1381.MP4": {
+   "id": "1MazIEhlKXbp7WQgYd7YFcPLpvmuJhgIJ",
+   "tamanho": 134797769,
+   "md5": "5ed327c3dad1afb3c2750659b8885018"
+  },
+  "fx30/breno.1382.MP4": {
+   "id": "1s9Lv_KEZj1V5LN4jTM6jM14kC0t7k1aU",
+   "tamanho": 5033833311,
+   "md5": "425bb27386da0de18de3be9d23684147"
+  },
+  "fx30/breno.1383.MP4": {
+   "id": "1l2iHN_yX-8Lpb97Krd5reTsAiTmHvJQ2",
+   "tamanho": 336127749,
+   "md5": "b0e185fea338aa6ee00c33e4cfa5d183"
+  },
+  "fx30/breno.1384.MP4": {
+   "id": "1Z7OH3v2gICYYIorYzAWpRGs2StbUiKte",
+   "tamanho": 2684977259,
+   "md5": "7267d452cd883ae807eea7d911066b59"
+  },
+  "fx30/breno.1385.MP4": {
+   "id": "1Aw5e70G16Ar2cMkoY0WutpGQAkn1vLLy",
+   "tamanho": 3892956831,
+   "md5": "d9403f8bdf196fccdabfe6b41253e8e0"
+  },
+  "fx30/breno.1386.MP4": {
+   "id": "149YGxu0D6K5M6x950HxjRzRgJli7lFD4",
+   "tamanho": 2013877531,
+   "md5": "94be81cbe1bf442b52c13d755a0d5ceb"
+  },
+  "fx30/breno.1387.MP4": {
+   "id": "1HffpAp3b7oSzTH3TFibXPUMpGKC_vPb_",
+   "tamanho": 4161396599,
+   "md5": "5e5c5240befbe76b78c4c2835572690f"
+  },
+  "fx30/breno.1388.MP4": {
+   "id": "19pgttmv_BtU-d7pfqlVZvD0pxYxuCFj_",
+   "tamanho": 2080987237,
+   "md5": "d2cd8f7ce12bf8245d13e4ad57299589"
+  },
+  "fx30/breno.1389.MP4": {
+   "id": "1nA_HHYV1WJwIQOJ5t1NCgv7x_16v1pOz",
+   "tamanho": 6107594461,
+   "md5": "6d849fcc706eaf27a7a67b8756d8aa35"
+  },
+  "fx30/breno.1390.MP4": {
+   "id": "1UkuYE1zKA3cWh0xnMJVz15iXY8E2ze0Y",
+   "tamanho": 201907709,
+   "md5": "e1463f92d59a431d05f54e635cea46cf"
+  },
+  "fx30/breno.1391.MP4": {
+   "id": "1ivB8vT7SPL7Xp7nTri3Vx8DBAW9xXMbX",
+   "tamanho": 134797417,
+   "md5": "23ed84be340ad06ff0d1e2626f0a1084"
+  },
+  "fx30/breno.1392.MP4": {
+   "id": "1E1NkBVMz5sAhZIDeLRqb06mUnMppQ9dI",
+   "tamanho": 134797417,
+   "md5": "6a3a7a4fbcffee6dcb6708328448a17b"
+  },
+  "fx30/breno.1393.MP4": {
+   "id": "11qW-kdEOG4nnTBOqZZa3x0zw-a7pJmNw",
+   "tamanho": 4429843313,
+   "md5": "8f6e6a667f25e5408327fc33cadf7bf4"
+  },
+  "fx30/breno.1394.MP4": {
+   "id": "1kEdyqf8PDCMkqNzmZVh8uj51VmMIfgn3",
+   "tamanho": 4564062575,
+   "md5": "4d0697aece518e70c03973c877d81408"
+  },
+  "fx30/breno.1395.MP4": {
+   "id": "1AjjpDlog7Mas6fancQkzAdavMlqh45b0",
+   "tamanho": 1007248569,
+   "md5": "16545f9cf1053742fd7dac008e299d6f"
+  },
+  "fx30/breno.1396.MP4": {
+   "id": "1s1_7d7eEbps7JVhmkLNm_bwNGK66zh81",
+   "tamanho": 134799067,
+   "md5": "ce5038e55fc0410e459f518a0da03260"
+  },
+  "fx30/breno.1397.MP4": {
+   "id": "1RX1dcww_9ZwtybcWsTF3h98itXufq826",
+   "tamanho": 537467425,
+   "md5": "9402071c814ab5b30ea3929fc29ecb48"
+  },
+  "fx30/breno.1398.MP4": {
+   "id": "11Edn3Bvd3aba8wt599jrxvu_G27233Fy",
+   "tamanho": 537468197,
+   "md5": "db55255b4b43477514494e4456e798ee"
+  },
+  "fx30/breno.1399.MP4": {
+   "id": "14YgDZDBtOp7Ihr6e0c-gk3x3Z8M4CYsB",
+   "tamanho": 336133441,
+   "md5": "8ed3b0107c2ce1b9b00d614b0aaafa63"
+  },
+  "fx30/breno.1400.MP4": {
+   "id": "1FrepQtXo5De2lJKGehefEIIPYJcDz4qa",
+   "tamanho": 134800843,
+   "md5": "39aadb9798728725e86569d30b71fdb3"
+  },
+  "fx30/breno.1401.MP4": {
+   "id": "1PV352prVvxEPr4LO9R30FguBYfG63Ivd",
+   "tamanho": 1074361593,
+   "md5": "9ac2c2f9d34590220ecf582d1cdc4759"
+  },
+  "fx30/breno.1402.MP4": {
+   "id": "1phyqwtudBN-SSf6RJMqxgJC8Zsx215n_",
+   "tamanho": 1208582165,
+   "md5": "7d5415098f5ec1a3c7dd9c347672365b"
+  },
+  "fx30/breno.1403.MP4": {
+   "id": "1C4e0fR3T81tmA-rd3_skw3lp-h5-T3ng",
+   "tamanho": 67687895,
+   "md5": "3c167ce789d88affa1461d16f9cd4bda"
+  },
+  "fx30/breno.1404.MP4": {
+   "id": "1nAB48xnRGAgVqzP_QgqOpQGz4Gy1iqmG",
+   "tamanho": 67687975,
+   "md5": "e15d531b8cb0786db51aab453fc445e3"
+  },
+  "fx30/breno.1405.MP4": {
+   "id": "1YTRDVqIgRxb6957u6Btih5xQX6GR5raY",
+   "tamanho": 67688037,
+   "md5": "ef4fdb4d4d063ca826c0fcd6f95f91fe"
+  },
+  "fx30/breno.1406.MP4": {
+   "id": "1-bamJ-inH_CqOxr4TwDLIQ19b569ST2H",
+   "tamanho": 67687655,
+   "md5": "3344740ea01b7e45b60ad5e49ae20eb9"
+  },
+  "fx30/breno.1407.MP4": {
+   "id": "1qxnq45zovn7AGNGkJnHs8R_ly4py3btH",
+   "tamanho": 134797153,
+   "md5": "c4f8f07100c9b5281a30ac3e67f446e6"
+  },
+  "fx30/breno.1408.MP4": {
+   "id": "1L7UApo5l9IuNFXaVVPRR7aqg8KPDHzDx",
+   "tamanho": 67687279,
+   "md5": "ebf59c55a3259412a3baba7169a85429"
+  },
+  "fx30/breno.1409.MP4": {
+   "id": "1S0XP-_FGRiE006GHYr3pC8AXX2vJOcbe",
+   "tamanho": 67687403,
+   "md5": "4cdfe2179fee1d68e56d348b1e0bafe6"
+  },
+  "fx30/breno.1410.MP4": {
+   "id": "1r9atwECXlHp6XcSRa-pbFI4s0V0zXAI3",
+   "tamanho": 67687279,
+   "md5": "0261f829e7956dbc69f2d34304383e1e"
+  },
+  "fx30/breno.1411.MP4": {
+   "id": "19zKJIi9-afZOoliLwX6gFFIEkUEn2pMm",
+   "tamanho": 67688161,
+   "md5": "5ac079645846be4f65ddae90cee379f6"
+  },
+  "fx30/breno.1412.MP4": {
+   "id": "1aQ3_yugKHXSbVNDGyKkl-S_iB2iQxjr8",
+   "tamanho": 269021803,
+   "md5": "15c92e8ef44e67ee10c5a7fd28a2bacc"
+  },
+  "fx30/breno.1413.MP4": {
+   "id": "1kF2KuU2DPgDUTLLKhMUxtGqbxIqoeWJj",
+   "tamanho": 1141470609,
+   "md5": "ccfcbf34f6ada3b0e8a2376864d63350"
+  },
+  "fx30/breno.1414.MP4": {
+   "id": "1ZPQ0yCo6jYZKMljdgBZ3F-XwAnfuA8gp",
+   "tamanho": 604579137,
+   "md5": "4182defec45da92161c1de00faa5b4c9"
+  },
+  "fx30/breno.1415.MP4": {
+   "id": "11UcBJFht_pioEQt6LUiMx41vzhdCx7o2",
+   "tamanho": 134798299,
+   "md5": "16ab87e40b6e050464859340b01ea695"
+  },
+  "fx30/breno.1416.MP4": {
+   "id": "18URrlg_kC2Tn4bgkpw-gGYhuXXg-WAKV",
+   "tamanho": 201912323,
+   "md5": "a270dfca520f42a23edd590ee3621981"
+  },
+  "fx30/breno.1417.MP4": {
+   "id": "1o-D7PN1ODXz0YVtSJZvGoBaIpQTcmnpH",
+   "tamanho": 67689279,
+   "md5": "d3efd5fd53ed2e8cb0fe6d4bbedf023b"
+  },
+  "fx30/breno.1418.MP4": {
+   "id": "1j4Lzftl0-Wd-BdkZHhqfKHuvncc4nb2I",
+   "tamanho": 67687895,
+   "md5": "d63977b7dfcc73292b0e389067546aea"
+  },
+  "fx30/breno.1419.MP4": {
+   "id": "1zCoE6uLHFFP1-uk_mpB-jA35N_Tbi5JW",
+   "tamanho": 67688663,
+   "md5": "29a9711cb8f79ec05b6a2283cf720931"
+  },
+  "fx30/breno.1420.MP4": {
+   "id": "14FuY4yLZRIoahE-3ID-p7K5Ewt_4UQLg",
+   "tamanho": 269023729,
+   "md5": "c19964156186bef5f875d93f075c9f63"
+  },
+  "mini-cooper/IMG_0669.MOV": {
+   "id": "1UXwv9IYJzaQwzMFHRoI53ZkDgWLJoGzS",
+   "tamanho": 728416823,
+   "md5": "3cddc574774b7ff1e3ed92b5b6899394"
+  },
+  "mini-cooper/osmo/DJI_20261111140731_0011_D.MP4": {
+   "id": "1F1-MiZP8vlH0gjvCQTh72DWw_l66CIEX",
+   "tamanho": 2425242788,
+   "md5": "f085ed64b00dd0d52204df760464d467"
+  },
+  "mini-cooper/osmo/DJI_20261111141133_0012_D.MP4": {
+   "id": "1hIrAbecdpo-gUwliNr7x9CYMcwZ3nYJ0",
+   "tamanho": 4082897618,
+   "md5": "9740fda8b5e9e6c5beabbbe1084d22e0"
+  }
+ },
+ "render": {
+  "black-experience-1080p.mp4": {
+   "id": "1wHUrIrEGtsEyUNdm0Wy0K3i9C5dBjf4l",
+   "tamanho": 1017685195,
+   "md5": "03807e37890416eacd608a9f879be7b1"
+  }
+ }
+}
